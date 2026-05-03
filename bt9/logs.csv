@@ -1,0 +1,11 @@
+timestamp,event,source,status
+1,login,user1,success
+2,login,user2,failed
+3,login,user2,failed
+4,login,user2,failed
+5,transaction,user1,success
+6,transaction,user3,success
+7,login,user4,failed
+8,login,user4,failed
+9,login,user4,failed
+10,transaction,user2,success
